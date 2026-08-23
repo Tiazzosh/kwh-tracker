@@ -11,7 +11,7 @@ Thank you for using kWh Tracker.
 
 For support, feedback, or feature requests, contact:
 
-your-email@example.com
+me@mattiafalchi.com
 
 Please include your iPhone model, iOS version, and a description
 of the problem. Do not send passwords, access keys, or other
